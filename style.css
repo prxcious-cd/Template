@@ -289,7 +289,7 @@ button {
   justify-content: center;
   text-align: center;
   /* REPLACE HERO BACKGROUND IMAGE HERE */
-  background: url('https://placehold.co/1920x1080/0a0a0a/1a1a1a?text=') center/cover no-repeat,
+  background: url('712ef6b087f64f3d7f7ea8d5735b6795.jpg') center/cover no-repeat,
               radial-gradient(circle at 50% 30%, #1c1c1c, #0a0a0a 70%);
   overflow: hidden;
 }
